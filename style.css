@@ -14,7 +14,7 @@
 }
 html,
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: cursive;
   font-weight: 300;
   line-height: 1.4;
   scroll-behavior: smooth;
@@ -192,4 +192,5 @@ nav ul li:hover {
 
 .gift-section {
   scroll-margin: 120px;
+  font-family: "Roboto", sans-serif;
 }
